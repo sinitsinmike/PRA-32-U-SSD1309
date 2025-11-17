@@ -8,7 +8,7 @@ PRA-32-U with SSD1309 instead of SSD1306
 
 #include "pra32-u-control-panel.h"
 
-
+#
 или в самом .h рядом с init SSD1309, заменив 0 на 1.
 ##
 Быстрый тест:
