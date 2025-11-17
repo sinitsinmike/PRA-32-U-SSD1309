@@ -5,6 +5,7 @@ PRA-32-U with SSD1309 instead of SSD1306
 
 
 #define PRA32_U_SSD1309_USE_CHARGEPUMP_STYLE 1  // использовать 0x8D,0x14
+
 #include "pra32-u-control-panel.h"
 
 
